@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I’m currently learning Python and HTML, but i need to emprove my hardskills 🌱
+### I'm new in this world, but i'm learning fast!
 
 <!--
 **joaogabriel1508/joaogabriel1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
